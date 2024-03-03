@@ -1,0 +1,966 @@
+﻿year,rank,state,rate
+2021,1,West Virginia,40.60%
+2021,2,Kentucky,40.30%
+2021,3,Alabama,39.90%
+2021,4,Oklahoma,39.40%
+2021,5,Mississippi,39.10%
+2021,6,Arkansas,38.70%
+2021,7,Louisiana,38.60%
+2021,8,South Dakota,38.40%
+2021,9,Ohio,37.70%
+2021,10,Missouri,37.30%
+2021,11,Iowa,36.40%
+2021,12,Indiana,36.30%
+2021,13,South Carolina,36.10%
+2021,13,Texas,36.10%
+2021,15,Kansas,36.00%
+2021,15,North Carolina,36.00%
+2021,17,Nebraska,35.90%
+2021,18,North Dakota,35.20%
+2021,19,Tennessee,35.00%
+2021,20,New Mexico,34.60%
+2021,21,Michigan,34.40%
+2021,22,Maryland,34.30%
+2021,23,Illinois,34.20%
+2021,23,Virginia,34.20%
+2021,25,Delaware,33.90%
+2021,25,Georgia,33.90%
+2021,25,Wisconsin,33.90%
+2021,28,Alaska,33.50%
+2021,29,Pennsylvania,33.30%
+2021,30,Minnesota,32.40%
+2021,31,Wyoming,32.00%
+2021,32,Maine,31.90%
+2021,33,Montana,31.80%
+2021,34,Idaho,31.60%
+2021,35,Arizona,31.30%
+2021,35,Nevada,31.30%
+2021,37,Utah,30.90%
+2021,38,New Hampshire,30.60%
+2021,39,Connecticut,30.40%
+2021,39,Oregon,30.40%
+2021,41,Rhode Island,30.10%
+2021,42,New York,29.10%
+2021,43,Vermont,29.00%
+2021,44,Washington,28.80%
+2021,45,New Jersey,28.20%
+2021,46,California,27.60%
+2021,47,Massachusetts,27.40%
+2021,48,Colorado,25.10%
+2021,49,Hawaii,25.00%
+2021,50,District of Columbia,24.70%
+2020,42,Florida,28.40%
+2020,2,West Virginia,39.10%
+2020,6,Kentucky,36.60%
+2020,3,Alabama,39.00%
+2020,9,Oklahoma,36.40%
+2020,1,Mississippi,39.70%
+2020,9,Arkansas,36.40%
+2020,4,Louisiana,38.10%
+2020,21,South Dakota,33.20%
+2020,14,Ohio,35.50%
+2020,18,Missouri,34.00%
+2020,7,Iowa,36.50%
+2020,5,Indiana,36.80%
+2020,11,South Carolina,36.20%
+2020,12,Texas,35.80%
+2020,15,Kansas,35.30%
+2020,20,North Carolina,33.60%
+2020,18,Nebraska,34.00%
+2020,22,North Dakota,33.10%
+2020,13,Tennessee,35.60%
+2020,31,New Mexico,30.90%
+2020,16,Michigan,35.20%
+2020,29,Maryland,31.00%
+2020,23,Illinois,32.40%
+2020,25,Virginia,32.20%
+2020,7,Delaware,36.50%
+2020,17,Georgia,34.30%
+2020,24,Wisconsin,32.30%
+2020,26,Alaska,31.90%
+2020,27,Pennsylvania,31.50%
+2020,33,Minnesota,30.70%
+2020,33,Wyoming,30.70%
+2020,29,Maine,31.00%
+2020,41,Montana,28.50%
+2020,28,Idaho,31.10%
+2020,31,Arizona,30.90%
+2020,39,Nevada,28.70%
+2020,40,Utah,28.60%
+2020,37,New Hampshire,29.90%
+2020,38,Connecticut,29.20%
+2020,43,Oregon,28.10%
+2020,36,Rhode Island,30.10%
+2020,46,New York,26.30%
+2020,46,Vermont,26.30%
+2020,44,Washington,28.00%
+2020,45,New Jersey,27.70%
+2020,35,California,30.30%
+2020,49,Massachusetts,24.40%
+2020,51,Colorado,24.20%
+2020,48,Hawaii,24.50%
+2020,50,District of Columbia,24.30%
+2019,44,Florida,27.00%
+2019,2,West Virginia,39.70%
+2019,5,Kentucky,36.50%
+2019,7,Alabama,36.10%
+2019,4,Oklahoma,36.80%
+2019,1,Mississippi,40.80%
+2019,3,Arkansas,37.40%
+2019,9,Louisiana,35.90%
+2019,24,South Dakota,33.00%
+2019,13,Ohio,34.80%
+2019,13,Missouri,34.80%
+2019,21,Iowa,33.90%
+2019,11,Indiana,35.30%
+2019,10,South Carolina,35.40%
+2019,19,Texas,34.00%
+2019,12,Kansas,35.20%
+2019,19,North Carolina,34.00%
+2019,18,Nebraska,34.10%
+2019,13,North Dakota,34.80%
+2019,5,Tennessee,36.50%
+2019,28,New Mexico,31.70%
+2019,8,Michigan,36.00%
+2019,25,Maryland,32.30%
+2019,30,Illinois,31.60%
+2019,26,Virginia,31.90%
+2019,16,Delaware,34.40%
+2019,23,Georgia,33.10%
+2019,17,Wisconsin,34.20%
+2019,33,Alaska,30.50%
+2019,22,Pennsylvania,33.20%
+2019,34,Minnesota,30.10%
+2019,36,Wyoming,29.70%
+2019,28,Maine,31.70%
+2019,41,Montana,28.30%
+2019,37,Idaho,29.50%
+2019,31,Arizona,31.40%
+2019,32,Nevada,30.60%
+2019,38,Utah,29.20%
+2019,27,New Hampshire,31.80%
+2019,39,Connecticut,29.10%
+2019,40,Oregon,29.00%
+2019,35,Rhode Island,30.00%
+2019,43,New York,27.10%
+2019,45,Vermont,26.60%
+2019,41,Washington,28.30%
+2019,46,California,26.20%
+2019,47,Massachusetts,25.20%
+2019,49,Colorado,23.80%
+2019,48,Hawaii,25.00%
+2019,49,District of Columbia,23.80%
+2018,1,West Virginia,38.10%
+2018,2,Mississippi,37.30%
+2018,3,Oklahoma,36.50%
+2018,4,Iowa,36.40%
+2018,5,Alabama,36.30%
+2018,6,Louisiana,36.20%
+2018,7,Arkansas,35.00%
+2018,8,Kentucky,34.30%
+2018,9,Alaska,34.20%
+2018,10,South Carolina,34.10%
+2018,11,Ohio,33.80%
+2018,12,Indiana,33.60%
+2018,13,North Dakota,33.20%
+2018,14,Texas,33.00%
+2018,15,Tennessee,32.80%
+2018,15,Nebraska,32.80%
+2018,17,Missouri,32.50%
+2018,18,Kansas,32.40%
+2018,19,Michigan,32.30%
+2018,20,North Carolina,32.10%
+2018,21,Wisconsin,32.00%
+2018,22,South Dakota,31.90%
+2018,23,Delaware,31.80%
+2018,24,Georgia,31.60%
+2018,24,Pennsylvania,31.60%
+2018,26,Maryland,31.30%
+2018,27,Illinois,31.10%
+2018,28,Virginia,30.10%
+2018,29,Rhode Island,30.00%
+2018,30,Arizona,29.50%
+2018,31,Oregon,29.40%
+2018,32,Idaho,29.30%
+2018,33,Maine,29.10%
+2018,34,Wyoming,28.80%
+2018,35,New Mexico,28.40%
+2018,35,Minnesota,28.40%
+2018,35,Florida,28.40%
+2018,38,New Hampshire,28.10%
+2018,39,Washington,27.70%
+2018,40,Vermont,27.60%
+2018,41,New Jersey,27.30%
+2018,42,Connecticut,26.90%
+2018,43,Nevada,26.70%
+2018,44,Massachusetts,25.90%
+2018,45,New York,25.70%
+2018,46,Montana,25.30%
+2018,46,Utah,25.30%
+2018,48,California,25.10%
+2018,49,Hawaii,23.80%
+2018,50,District of Columbia,23.00%
+2018,51,Colorado,22.60%
+2017,1,West Virginia,38.10%
+2017,2,Mississippi,37.30%
+2017,3,Oklahoma,36.50%
+2017,4,Iowa,36.40%
+2017,5,Alabama,36.30%
+2017,6,Louisiana,36.20%
+2017,7,Arkansas,35.00%
+2017,8,Kentucky,34.30%
+2017,9,Alaska,34.20%
+2017,10,South Carolina,34.10%
+2017,11,Ohio,33.80%
+2017,12,Indiana,33.60%
+2017,13,North Dakota,33.20%
+2017,14,Texas,33.00%
+2017,15,Tennessee,32.80%
+2017,15,Nebraska,32.80%
+2017,17,Missouri,32.50%
+2017,18,Kansas,32.40%
+2017,19,Michigan,32.30%
+2017,20,North Carolina,32.10%
+2017,21,Wisconsin,32.00%
+2017,22,South Dakota,31.90%
+2017,23,Delaware,31.80%
+2017,24,Georgia,31.60%
+2017,24,Pennsylvania,31.60%
+2017,26,Maryland,31.30%
+2017,27,Illinois,31.10%
+2017,28,Virginia,30.10%
+2017,29,Rhode Island,30.00%
+2017,30,Arizona,29.50%
+2017,31,Oregon,29.40%
+2017,32,Idaho,29.30%
+2017,33,Maine,29.10%
+2017,34,Wyoming,28.80%
+2017,35,New Mexico,28.40%
+2017,35,Minnesota,28.40%
+2017,35,Florida,28.40%
+2017,38,New Hampshire,28.10%
+2017,39,Washington,27.70%
+2017,40,Vermont,27.60%
+2017,41,New Jersey,27.30%
+2017,42,Connecticut,26.90%
+2017,43,Nevada,26.70%
+2017,44,Massachusetts,25.90%
+2017,45,New York,25.70%
+2017,46,Montana,25.30%
+2017,46,Utah,25.30%
+2017,48,California,25.10%
+2017,49,Hawaii,23.80%
+2017,50,District of Columbia,23.00%
+2017,51,Colorado,22.60%
+2016,1,West Virginia,37.70%
+2016,2,Mississippi,37.30%
+2016,3,Alabama,35.70%
+2016,3,Arkansas,35.70%
+2016,5,Louisiana,35.50%
+2016,6,Tennessee,34.80%
+2016,7,Kentucky,34.20%
+2016,8,Texas,33.70%
+2016,9,Oklahoma,32.80%
+2016,10,Indiana,32.50%
+2016,10,Michigan,32.50%
+2016,12,South Carolina,32.30%
+2016,13,Iowa,32.00%
+2016,13,Nebraska,32.00%
+2016,15,North Dakota,31.90%
+2016,16,North Carolina,31.80%
+2016,17,Missouri,31.70%
+2016,18,Illinois,31.60%
+2016,19,Ohio,31.50%
+2016,20,Georgia,31.40%
+2016,20,Alaska,31.40%
+2016,22,Kansas,31.20%
+2016,23,Delaware,30.70%
+2016,23,Wisconsin,30.70%
+2016,25,Pennsylvania,30.30%
+2016,26,Maryland,29.90%
+2016,26,Maine,29.90%
+2016,28,South Dakota,29.60%
+2016,29,Virginia,29.00%
+2016,29,Arizona,29.00%
+2016,31,Oregon,28.70%
+2016,32,Washington,28.60%
+2016,33,New Mexico,28.30%
+2016,34,Minnesota,27.80%
+2016,35,Wyoming,27.70%
+2016,36,Florida,27.40%
+2016,36,Idaho,27.40%
+2016,36,New Jersey,27.40%
+2016,39,Vermont,27.10%
+2016,40,New Hampshire,26.60%
+2016,40,Rhode Island,26.60%
+2016,42,Connecticut,26.00%
+2016,43,Nevada,25.80%
+2016,44,Montana,25.50%
+2016,44,New York,25.50%
+2016,46,Utah,25.40%
+2016,47,California,25.00%
+2016,48,Hawaii,23.80%
+2016,49,Massachusetts,23.60%
+2016,50,District of Columbia,22.60%
+2016,51,Colorado,22.30%
+2015,1,Louisiana,36.20%
+2015,2,West Virginia,35.60%
+2015,2,Alabama,35.60%
+2015,2,Mississippi,35.60%
+2015,5,Kentucky,34.60%
+2015,6,Arkansas,34.50%
+2015,7,Kansas,34.20%
+2015,8,Oklahoma,33.90%
+2015,9,Tennessee,33.80%
+2015,10,Missouri,32.40%
+2015,10,Texas,32.40%
+2015,12,Iowa,32.10%
+2015,13,South Carolina,31.70%
+2015,14,Nebraska,31.40%
+2015,15,Indiana,31.30%
+2015,16,Michigan,31.20%
+2015,17,North Dakota,31.00%
+2015,18,Illinois,30.80%
+2015,19,Georgia,30.70%
+2015,19,Wisconsin,30.70%
+2015,21,South Dakota,30.40%
+2015,22,North Carolina,30.10%
+2015,22,Oregon,30.10%
+2015,24,Pennsylvania,30.00%
+2015,24,Maine,30.00%
+2015,26,Ohio,29.80%
+2015,26,Alaska,29.80%
+2015,28,Delaware,29.70%
+2015,29,Virginia,29.20%
+2015,30,Wyoming,29.00%
+2015,31,Maryland,28.90%
+2015,32,New Mexico,28.80%
+2015,33,Idaho,28.60%
+2015,34,Arizona,28.40%
+2015,35,Florida,26.80%
+2015,36,Nevada,26.70%
+2015,37,Washington,26.40%
+2015,38,New Hampshire,26.30%
+2015,39,Minnesota,26.10%
+2015,40,Rhode Island,26.00%
+2015,41,New Jersey,25.60%
+2015,42,Connecticut,25.30%
+2015,43,Vermont,25.10%
+2015,44,New York,25.00%
+2015,45,Utah,24.50%
+2015,46,Massachusetts,24.30%
+2015,47,California,24.20%
+2015,48,Montana,23.60%
+2015,49,Hawaii,22.70%
+2015,50,District of Columbia,22.10%
+2015,51,Colorado,20.20%
+2014,44,Florida,26.20%
+2014,2,West Virginia,35.70%
+2014,12,Kentucky,31.60%
+2014,5,Alabama,33.50%
+2014,6,Oklahoma,33.00%
+2014,3,Mississippi,35.50%
+2014,1,Arkansas,35.90%
+2014,4,Louisiana,34.90%
+2014,23,South Dakota,29.80%
+2014,8,Ohio,32.60%
+2014,20,Missouri,30.20%
+2014,16,Iowa,30.90%
+2014,7,Indiana,32.70%
+2014,10,South Carolina,32.10%
+2014,11,Texas,31.90%
+2014,13,Kansas,31.30%
+2014,24,North Carolina,29.70%
+2014,20,Nebraska,30.20%
+2014,9,North Dakota,32.20%
+2014,14,Tennessee,31.20%
+2014,32,New Mexico,28.40%
+2014,17,Michigan,30.70%
+2014,26,Maryland,29.60%
+2014,28,Illinois,29.30%
+2014,31,Virginia,28.50%
+2014,17,Delaware,30.70%
+2014,19,Georgia,30.50%
+2014,14,Wisconsin,31.20%
+2014,24,Alaska,29.70%
+2014,20,Pennsylvania,30.20%
+2014,36,Minnesota,27.60%
+2014,27,Wyoming,29.50%
+2014,33,Maine,28.20%
+2014,42,Montana,26.40%
+2014,29,Idaho,28.90%
+2014,29,Arizona,28.90%
+2014,35,Nevada,27.70%
+2014,45,Utah,25.70%
+2014,37,New Hampshire,27.40%
+2014,43,Connecticut,26.30%
+2014,34,Oregon,27.90%
+2014,39,Rhode Island,27.00%
+2014,39,New York,27.00%
+2014,46,Vermont,24.80%
+2014,38,Washington,27.30%
+2014,41,New Jersey,26.90%
+2014,47,California,24.70%
+2014,48,Massachusetts,23.30%
+2014,51,Colorado,21.30%
+2014,49,Hawaii,22.10%
+2014,50,District of Columbia,21.70%
+2013,37,Florida,26.40%
+2013,1,West Virginia,35.10%
+2013,5,Kentucky,33.20%
+2013,8,Alabama,32.40%
+2013,7,Oklahoma,32.50%
+2013,1,Mississippi,35.10%
+2013,3,Arkansas,34.60%
+2013,6,Louisiana,33.10%
+2013,21,South Dakota,29.90%
+2013,16,Ohio,30.40%
+2013,16,Missouri,30.40%
+2013,12,Iowa,31.30%
+2013,9,Indiana,31.80%
+2013,10,South Carolina,31.70%
+2013,15,Texas,30.90%
+2013,19,Kansas,30.00%
+2013,25,North Carolina,29.40%
+2013,23,Nebraska,29.60%
+2013,14,North Dakota,31.00%
+2013,4,Tennessee,33.70%
+2013,37,New Mexico,26.40%
+2013,11,Michigan,31.50%
+2013,29,Maryland,28.30%
+2013,25,Illinois,29.40%
+2013,32,Virginia,27.20%
+2013,13,Delaware,31.10%
+2013,18,Georgia,30.30%
+2013,22,Wisconsin,29.80%
+2013,28,Alaska,28.40%
+2013,19,Pennsylvania,30.00%
+2013,41,Minnesota,25.50%
+2013,30,Wyoming,27.80%
+2013,27,Maine,28.90%
+2013,45,Montana,24.60%
+2013,23,Idaho,29.60%
+2013,34,Arizona,26.80%
+2013,40,Nevada,26.20%
+2013,46,Utah,24.10%
+2013,35,New Hampshire,26.70%
+2013,43,Connecticut,25.00%
+2013,36,Oregon,26.50%
+2013,31,Rhode Island,27.30%
+2013,42,New York,25.40%
+2013,44,Vermont,24.70%
+2013,32,Washington,27.20%
+2013,39,New Jersey,26.30%
+2013,46,California,24.10%
+2013,48,Massachusetts,23.60%
+2013,51,Colorado,21.30%
+2013,50,Hawaii,21.80%
+2013,49,District of Columbia,22.90%
+2012,40,Florida,25.20%
+2012,4,West Virginia,33.80%
+2012,9,Kentucky,31.30%
+2012,5,Alabama,33.00%
+2012,6,Oklahoma,32.20%
+2012,2,Mississippi,34.60%
+2012,3,Arkansas,34.50%
+2012,1,Louisiana,34.70%
+2012,24,South Dakota,28.10%
+2012,13,Ohio,30.10%
+2012,17,Missouri,29.60%
+2012,12,Iowa,30.40%
+2012,8,Indiana,31.40%
+2012,7,South Carolina,31.60%
+2012,19,Texas,29.20%
+2012,14,Kansas,29.90%
+2012,17,North Carolina,29.60%
+2012,22,Nebraska,28.60%
+2012,15,North Dakota,29.70%
+2012,10,Tennessee,31.10%
+2012,30,New Mexico,27.10%
+2012,10,Michigan,31.10%
+2012,26,Maryland,27.60%
+2012,24,Illinois,28.10%
+2012,27,Virginia,27.40%
+2012,31,Delaware,26.90%
+2012,20,Georgia,29.10%
+2012,15,Wisconsin,29.70%
+2012,36,Alaska,25.70%
+2012,20,Pennsylvania,29.10%
+2012,36,Minnesota,25.70%
+2012,42,Wyoming,24.60%
+2012,23,Maine,28.40%
+2012,44,Montana,24.30%
+2012,32,Idaho,26.80%
+2012,35,Arizona,26.00%
+2012,34,Nevada,26.20%
+2012,44,Utah,24.30%
+2012,28,New Hampshire,27.30%
+2012,39,Connecticut,25.60%
+2012,28,Oregon,27.30%
+2012,36,Rhode Island,25.70%
+2012,47,New York,23.60%
+2012,46,Vermont,23.70%
+2012,32,Washington,26.80%
+2012,42,New Jersey,24.60%
+2012,41,California,25.00%
+2012,49,Massachusetts,22.90%
+2012,51,Colorado,20.50%
+2012,47,Hawaii,23.60%
+2012,50,District of Columbia,21.90%
+2011,32,Florida,26.60%
+2011,3,West Virginia,32.40%
+2011,10,Kentucky,30.40%
+2011,4,Alabama,32.00%
+2011,6,Oklahoma,31.10%
+2011,1,Mississippi,34.90%
+2011,7,Arkansas,30.90%
+2011,2,Louisiana,33.40%
+2011,23,South Dakota,28.10%
+2011,13,Ohio,29.60%
+2011,12,Missouri,30.30%
+2011,18,Iowa,29.00%
+2011,8,Indiana,30.80%
+2011,8,South Carolina,30.80%
+2011,10,Texas,30.40%
+2011,13,Kansas,29.60%
+2011,17,North Carolina,29.10%
+2011,21,Nebraska,28.40%
+2011,25,North Dakota,27.80%
+2011,15,Tennessee,29.20%
+2011,34,New Mexico,26.30%
+2011,5,Michigan,31.30%
+2011,22,Maryland,28.30%
+2011,29,Illinois,27.10%
+2011,15,Virginia,29.20%
+2011,19,Delaware,28.80%
+2011,24,Georgia,28.00%
+2011,27,Wisconsin,27.70%
+2011,28,Alaska,27.40%
+2011,20,Pennsylvania,28.60%
+2011,36,Minnesota,25.70%
+2011,39,Wyoming,25.00%
+2011,25,Maine,27.80%
+2011,41,Montana,24.60%
+2011,30,Idaho,27.00%
+2011,40,Arizona,24.70%
+2011,42,Nevada,24.50%
+2011,45,Utah,24.40%
+2011,35,New Hampshire,26.20%
+2011,42,Connecticut,24.50%
+2011,31,Oregon,26.70%
+2011,37,Rhode Island,25.40%
+2011,42,New York,24.50%
+2011,37,Vermont,25.40%
+2011,33,Washington,26.50%
+2011,47,New Jersey,23.70%
+2011,46,California,23.80%
+2011,49,Massachusetts,22.70%
+2011,51,Colorado,20.70%
+2011,50,Hawaii,21.80%
+2011,47,District of Columbia,23.70%
+2010,29,Florida,26.10%
+2010,3,West Virginia,32.20%
+2010,6,Kentucky,31.50%
+2010,2,Alabama,32.30%
+2010,7,Oklahoma,31.40%
+2010,1,Mississippi,34.40%
+2010,9,Arkansas,30.60%
+2010,5,Louisiana,31.60%
+2010,17,South Dakota,28.70%
+2010,13,Ohio,29.60%
+2010,11,Missouri,30.30%
+2010,20,Iowa,28.10%
+2010,15,Indiana,29.10%
+2010,8,South Carolina,30.90%
+2010,12,Texas,30.10%
+2010,16,Kansas,29.00%
+2010,14,North Carolina,29.40%
+2010,24,Nebraska,27.60%
+2010,21,North Dakota,28.00%
+2010,4,Tennessee,31.90%
+2010,33,New Mexico,25.60%
+2010,10,Michigan,30.50%
+2010,26,Maryland,27.10%
+2010,23,Illinois,27.70%
+2010,30,Virginia,25.90%
+2010,21,Delaware,28.00%
+2010,17,Georgia,28.70%
+2010,25,Wisconsin,27.40%
+2010,30,Alaska,25.90%
+2010,19,Pennsylvania,28.50%
+2010,38,Minnesota,25.30%
+2010,35,Wyoming,25.40%
+2010,27,Maine,26.50%
+2010,44,Montana,23.80%
+2010,32,Idaho,25.70%
+2010,35,Arizona,25.40%
+2010,39,Nevada,25.00%
+2010,46,Utah,23.40%
+2010,33,New Hampshire,25.60%
+2010,49,Connecticut,21.80%
+2010,35,Oregon,25.40%
+2010,42,Rhode Island,24.30%
+2010,41,New York,24.70%
+2010,45,Vermont,23.50%
+2010,28,Washington,26.40%
+2010,43,New Jersey,24.10%
+2010,40,California,24.80%
+2010,48,Massachusetts,22.30%
+2010,51,Colorado,19.80%
+2010,47,Hawaii,23.10%
+2010,50,District of Columbia,21.70%
+2009,1,Mississippi,33.80%
+2009,2,Alabama,31.60%
+2009,4,West Virginia,31.30%
+2009,2,Tennessee,31.60%
+2009,9,South Carolina,29.90%
+2009,6,Oklahoma,30.60%
+2009,7,Kentucky,30.50%
+2009,5,Louisiana,31.20%
+2009,10,Michigan,29.40%
+2009,8,Arkansas,30.10%
+2009,13,Ohio,29.00%
+2009,10,North Carolina,29.40%
+2009,12,Missouri,29.30%
+2009,17,Georgia,28.10%
+2009,13,Texas,29.00%
+2009,17,Indiana,28.10%
+2009,20,Delaware,27.90%
+2009,24,Alaska,26.90%
+2009,16,Kansas,28.20%
+2009,23,Nebraska,27.30%
+2009,15,South Dakota,28.50%
+2009,22,Iowa,27.60%
+2009,21,North Dakota,27.70%
+2009,17,Pennsylvania,28.10%
+2009,24,Wisconsin,26.90%
+2009,26,Maryland,26.60%
+2009,26,Illinois,26.60%
+2009,32,Virginia,25.50%
+2009,39,Oregon,25.00%
+2009,28,Washington,26.30%
+2009,32,Minnesota,25.50%
+2009,31,Nevada,25.60%
+2009,36,Idaho,25.10%
+2009,29,Arizona,25.80%
+2009,29,Maine,25.80%
+2009,32,New Mexico,25.50%
+2009,36,New York,25.10%
+2009,39,Wyoming,25.00%
+2009,35,New Hampshire,25.40%
+2009,36,Florida,25.10%
+2009,41,California,24.40%
+2009,42,New Jersey,23.90%
+2009,43,Montana,23.50%
+2009,44,Utah,23.20%
+2009,49,District of Columbia,21.50%
+2009,46,Vermont,22.80%
+2009,47,Hawaii,22.60%
+2009,45,Rhode Island,22.90%
+2009,50,Connecticut,21.40%
+2009,48,Massachusetts,21.70%
+2009,51,Colorado,19.10%
+2008,1,Mississippi,32.50%
+2008,2,Alabama,31.20%
+2008,3,West Virginia,31.10%
+2008,4,Tennessee,30.20%
+2008,5,South Carolina,29.70%
+2008,6,Oklahoma,29.50%
+2008,7,Kentucky,29.00%
+2008,8,Louisiana,28.90%
+2008,9,Michigan,28.80%
+2008,10,Arkansas,28.60%
+2008,10,Ohio,28.60%
+2008,12,North Carolina,28.30%
+2008,13,Missouri,28.10%
+2008,14,Georgia,27.90%
+2008,14,Texas,27.90%
+2008,16,Indiana,27.40%
+2008,17,Delaware,27.30%
+2008,18,Alaska,27.20%
+2008,18,Kansas,27.20%
+2008,20,Nebraska,26.90%
+2008,20,South Dakota,26.90%
+2008,22,Iowa,26.70%
+2008,22,North Dakota,26.70%
+2008,22,Pennsylvania,26.70%
+2008,25,Wisconsin,26.00%
+2008,25,Maryland,26.00%
+2008,27,Illinois,25.90%
+2008,28,Virginia,25.40%
+2008,28,Oregon,25.40%
+2008,28,Washington,25.40%
+2008,31,Minnesota,25.30%
+2008,32,Nevada,25.10%
+2008,33,Idaho,24.80%
+2008,33,Arizona,24.80%
+2008,35,Maine,24.70%
+2008,36,New Mexico,24.60%
+2008,37,New York,24.50%
+2008,38,Wyoming,24.30%
+2008,39,New Hampshire,24.10%
+2008,39,Florida,24.10%
+2008,41,California,23.60%
+2008,42,New Jersey,23.40%
+2008,43,Montana,22.70%
+2008,44,Utah,22.50%
+2008,45,District of Columbia,22.30%
+2008,46,Vermont,22.10%
+2008,47,Hawaii,21.80%
+2008,48,Rhode Island,21.70%
+2008,49,Connecticut,21.30%
+2008,50,Massachusetts,21.20%
+2008,51,Colorado,18.90%
+2007,1,Mississippi,31.70%
+2007,2,West Virginia,30.60%
+2007,3,Alabama,30.10%
+2007,4,Louisiana,29.50%
+2007,5,South Carolina,29.20%
+2007,6,Tennessee,29.00%
+2007,7,Kentucky,28.40%
+2007,8,Oklahoma,28.10%
+2007,8,Arkansas,28.10%
+2007,10,Michigan,27.70%
+2007,11,Indiana,27.50%
+2007,11,Georgia,27.50%
+2007,13,Missouri,27.40%
+2007,14,Alaska,27.30%
+2007,15,Texas,27.20%
+2007,16,North Carolina,27.10%
+2007,17,Ohio,26.90%
+2007,18,Nebraska,26.50%
+2007,19,Iowa,26.30%
+2007,20,South Dakota,26.10%
+2007,21,North Dakota,25.90%
+2007,21,Delaware,25.90%
+2007,23,Kansas,25.80%
+2007,24,Pennsylvania,25.70%
+2007,25,Wisconsin,25.50%
+2007,26,Illinois,25.30%
+2007,27,Maryland,25.20%
+2007,27,Virginia,25.20%
+2007,29,Oregon,25.00%
+2007,30,Minnesota,24.80%
+2007,31,Idaho,24.60%
+2007,32,Washington,24.50%
+2007,33,Wyoming,24.00%
+2007,34,Maine,23.70%
+2007,35,Nevada,23.60%
+2007,35,New Hampshire,23.60%
+2007,37,New York,23.50%
+2007,38,Florida,23.30%
+2007,38,New Mexico,23.30%
+2007,38,Arizona,23.30%
+2007,41,California,23.10%
+2007,42,New Jersey,22.90%
+2007,43,District of Columbia,22.10%
+2007,44,Utah,21.80%
+2007,45,Montana,21.70%
+2007,46,Rhode Island,21.40%
+2007,47,Vermont,21.10%
+2007,48,Massachusetts,20.90%
+2007,49,Connecticut,20.80%
+2007,50,Hawaii,20.70%
+2007,51,Colorado,18.40%
+2006,1,Mississippi,30.60%
+2006,2,West Virginia,29.80%
+2006,3,Alabama,29.40%
+2006,4,Louisiana,28.20%
+2006,5,South Carolina,27.80%
+2006,5,Tennessee,27.80%
+2006,7,Kentucky,27.50%
+2006,8,Arkansas,27.00%
+2006,9,Oklahoma,26.80%
+2006,9,Indiana,26.80%
+2006,9,Michigan,26.80%
+2006,12,Texas,26.30%
+2006,12,Missouri,26.30%
+2006,14,Georgia,26.10%
+2006,15,Ohio,26.00%
+2006,16,Alaska,25.80%
+2006,17,North Carolina,25.60%
+2006,18,Nebraska,25.40%
+2006,19,North Dakota,25.10%
+2006,20,Iowa,24.90%
+2006,20,South Dakota,24.90%
+2006,22,Wisconsin,24.80%
+2006,23,Pennsylvania,24.50%
+2006,23,Virginia,24.50%
+2006,25,Maryland,24.40%
+2006,25,Illinois,24.40%
+2006,27,Kansas,24.30%
+2006,28,Minnesota,23.70%
+2006,29,Delaware,23.60%
+2006,30,Oregon,23.30%
+2006,31,Idaho,23.20%
+2006,31,Washington,23.20%
+2006,33,Maine,23.00%
+2006,34,Florida,22.90%
+2006,35,Wyoming,22.80%
+2006,36,California,22.70%
+2006,37,Nevada,22.50%
+2006,38,New York,22.40%
+2006,38,New Hampshire,22.40%
+2006,39,District of Columbia,21.50%
+2006,40,New Jersey,22.20%
+2006,41,New Mexico,22.00%
+2006,42,Arizona,21.70%
+2006,43,Utah,21.10%
+2006,44,Montana,20.70%
+2006,45,Rhode Island,20.50%
+2006,46,Connecticut,20.10%
+2006,46,Hawaii,20.10%
+2006,48,Vermont,20.00%
+2006,49,Massachusetts,19.80%
+2006,50,Colorado,17.60%
+2005,35,Florida,21.80%
+2005,3,West Virginia,28.60%
+2005,5,Kentucky,26.70%
+2005,2,Alabama,28.70%
+2005,13,Oklahoma,25.40%
+2005,1,Mississippi,29.50%
+2005,7,Arkansas,26.40%
+2005,4,Louisiana,27.40%
+2005,22,South Dakota,24.00%
+2005,15,Ohio,24.90%
+2005,14,Missouri,25.20%
+2005,21,Iowa,24.30%
+2005,8,Indiana,26.20%
+2005,8,South Carolina,26.20%
+2005,10,Texas,25.80%
+2005,26,Kansas,23.20%
+2005,17,North Carolina,24.70%
+2005,20,Nebraska,24.40%
+2005,18,North Dakota,24.60%
+2005,6,Tennessee,26.60%
+2005,41,New Mexico,21.20%
+2005,11,Michigan,25.60%
+2005,24,Maryland,23.40%
+2005,23,Illinois,23.90%
+2005,25,Virginia,23.30%
+2005,29,Delaware,22.80%
+2005,12,Georgia,25.50%
+2005,28,Wisconsin,22.90%
+2005,15,Alaska,24.90%
+2005,19,Pennsylvania,24.50%
+2005,27,Minnesota,23.10%
+2005,36,Wyoming,21.70%
+2005,34,Maine,22.00%
+2005,45,Montana,19.90%
+2005,31,Idaho,22.40%
+2005,43,Arizona,20.80%
+2005,42,Nevada,21.00%
+2005,43,Utah,20.80%
+2005,36,New Hampshire,21.70%
+2005,46,Connecticut,19.60%
+2005,33,Oregon,22.20%
+2005,47,Rhode Island,19.50%
+2005,36,New York,21.70%
+2005,47,Vermont,19.50%
+2005,31,Washington,22.40%
+2005,40,New Jersey,21.40%
+2005,30,California,22.70%
+2005,49,Massachusetts,18.60%
+2005,51,Colorado,16.90%
+2005,50,Hawaii,18.20%
+2004,1,Mississippi,28.10%
+2004,2,Alabama,27.70%
+2004,3,West Virginia,27.60%
+2004,4,Louisiana,25.80%
+2004,5,Tennessee,25.60%
+2004,6,Kentucky,25.30%
+2004,6,Michigan,25.30%
+2004,6,Texas,25.30%
+2004,9,Indiana,25.20%
+2004,10,South Carolina,25.10%
+2004,11,Arkansas,25.00%
+2004,12,Georgia,24.50%
+2004,13,Ohio,24.40%
+2004,14,Oklahoma,24.10%
+2004,15,Pennsylvania,24.00%
+2004,16,North Carolina,23.90%
+2004,16,North Dakota,23.90%
+2004,16,Missouri,23.90%
+2004,19,Alaska,23.50%
+2004,20,Nebraska,23.40%
+2004,20,Iowa,23.40%
+2004,22,Illinois,22.90%
+2004,22,Kansas,22.90%
+2004,22,Virginia,22.90%
+2004,25,Minnesota,22.60%
+2004,26,South Dakota,22.60%
+2004,27,Delaware,22.50%
+2004,28,Wisconsin,21.90%
+2004,29,Maryland,21.70%
+2004,29,Washington,21.70%
+2004,31,California,21.50%
+2004,32,Nevada,21.30%
+2004,32,Maine,21.30%
+2004,34,New York,21.20%
+2004,35,District of Columbia,21.20%
+2004,36,Oregon,21.00%
+2004,37,Idaho,20.90%
+2004,38,Florida,20.70%
+2004,39,New Mexico,20.50%
+2004,40,Arizona,20.30%
+2004,40,New Jersey,20.30%
+2004,42,Wyoming,20.10%
+2004,43,New Hampshire,19.90%
+2004,44,Utah,19.60%
+2004,45,Vermont,19.10%
+2004,45,Montana,19.10%
+2004,47,Connecticut,18.90%
+2004,48,Rhode Island,18.60%
+2004,49,Massachusetts,17.80%
+2004,50,Colorado,16.40%
+2003,1,Alabama,28.40%
+2003,2,Mississippi,28.10%
+2003,3,West Virginia,27.70%
+2003,4,Indiana,26.00%
+2003,5,Kentucky,25.60%
+2003,6,Michigan,25.20%
+2003,6,Arkansas,25.20%
+2003,6,Georgia,25.20%
+2003,9,Tennessee,25.00%
+2003,10,Ohio,24.90%
+2003,11,Louisiana,24.80%
+2003,12,Texas,24.60%
+2003,13,South Carolina,24.50%
+2003,14,Oklahoma,24.40%
+2003,15,North Carolina,24.00%
+2003,15,Delaware,24.00%
+2003,17,Nebraska,23.90%
+2003,17,Iowa,23.90%
+2003,19,Pennsylvania,23.80%
+2003,20,North Dakota,23.70%
+2003,21,Missouri,23.60%
+2003,22,Alaska,23.50%
+2003,23,Illinois,23.20%
+2003,23,California,23.20%
+2003,25,Minnesota,23.00%
+2003,26,South Dakota,22.90%
+2003,27,Kansas,22.60%
+2003,28,Maryland,21.90%
+2003,29,Idaho,21.80%
+2003,30,Virginia,21.70%
+2003,30,Washington,21.70%
+2003,32,Oregon,21.50%
+2003,33,Nevada,21.20%
+2003,34,Wisconsin,20.90%
+2003,34,New York,20.90%
+2003,36,Utah,20.80%
+2003,37,District of Columbia,20.30%
+2003,38,New Mexico,20.20%
+2003,38,New Hampshire,20.20%
+2003,40,Arizona,20.10%
+2003,40,Wyoming,20.10%
+2003,40,New Jersey,20.10%
+2003,43,Maine,19.90%
+2003,43,Florida,19.90%
+2003,45,Vermont,19.60%
+2003,46,Connecticut,19.10%
+2003,47,Montana,18.80%
+2003,48,Rhode Island,18.40%
+2003,49,Massachusetts,16.80%
+2003,50,Hawaii,16.40%
+2003,51,Colorado,16.00%
