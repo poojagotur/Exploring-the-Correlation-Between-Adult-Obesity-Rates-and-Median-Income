@@ -1,4 +1,5 @@
 # Exploring the Correlation Between Adult Obesity Rates and Median Income
+![image](https://github.com/poojagotur/Univariate-Multivariate-Analysis/assets/138715091/cc7eaf10-4595-48fd-bf08-a423d94aa45b)
 
 This project aims to explore the potential correlation between adult obesity rates and the median income across different states in the United States.
 
